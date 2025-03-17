@@ -1,4 +1,3 @@
-
 void main(){
   //task1
   // int a = 8;
@@ -83,11 +82,14 @@ void main(){
 
   // task 10
  //  int kabisa = 2000;
- // if(kabisa % 4 == 0 && kabisa % 400 == 0 && kabisa % 100 != 0){
+ //  if(kabisa % 4 == 0 && kabisa % 400 == 0 && kabisa % 100 != 0){
  //   print("true");
  // }else{
  //   print("false");
  // }
+
+
+
 
   // task 11
   // dynamic a = "12";
@@ -303,34 +305,12 @@ void main(){
   // }
 
   // task 29
-  int a = 1;
-  int b = 0;
-  int c = 1;
-  if(a <= 0 || b <= 0 || c <= 0){
-    print('0');
-  }else{
-    print("$a$b$c");
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  // int a = 1;
+  // int b = 1;
+  // int c = 1;
+  // if(a <= 0 || b <= 0 || c <= 0){
+  //   print('0');
+  // }else{
+  //   print("$a$b$c");
+  // }
 }
